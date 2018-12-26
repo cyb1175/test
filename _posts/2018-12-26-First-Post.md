@@ -1,10 +1,10 @@
 ---
-title: 자기 주도 학습
+title: [1주차 Reflection] Design Thinking 방법론
 ---
 
-# 주제 1
+# 공감(empathize)
 
-연습
+ㅇㅇㅇ을 위해 ㅇㅇㅇ를 하는 
 
 # 주제 2
 
